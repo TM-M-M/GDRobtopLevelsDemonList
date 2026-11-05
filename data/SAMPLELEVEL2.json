@@ -1,12 +1,18 @@
 {
     "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "name": "Grief Processing Full",
+    "author": "VerdinGD",
+    "creators": [VerdinGD],
+    "verifier": "+Nakon+",
+    "verification": "https://www.youtube.com/watch?v=jrp2XB_pA9k&t=40s",
+    "percentToQualify": "64",
     "password": "Free To Copy",
     "records": [
-    ]
-}
+    {
+        "user": "Mr_Enderman",
+        "link": "https://www.youtube.com/watch?v=GqEL6bBbM4Q",
+        "percent": 100,
+        "hz": 144
+    }
+]
+
