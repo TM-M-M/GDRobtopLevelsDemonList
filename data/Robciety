@@ -1,0 +1,18 @@
+{
+    "id": 149136197,
+    "name": "Robciety",
+    "author": "chonxamGD",
+    "creators": [""],
+    "verifier": "ItsAgelaaaa",
+    "verification": "https://www.youtube.com/watch?v=_gYjjGvof2U",
+    "percentToQualify": 50,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "NotSpam",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
