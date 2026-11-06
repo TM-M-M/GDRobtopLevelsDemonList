@@ -8,37 +8,35 @@
   "percentToQualify": 40,
   "password": "Free To Copy",
   "records": [
-      {
-        "user": "NotSpam",
-        "link": "https://www.youtube.com/watch?v=YGUp5AUWTU0",
-        "percent": 100,
-        "hz": 60
-    },
-   {
-        "user": "CzechyyGMD",
-        "link": "https://www.youtube.com/watch?v=pYoVNmWWHHk",
-        "percent": 100,
-        "hz": 120
-    },
-   {
-        "user": "Justarandomguy",
-        "link": "https://www.youtube.com/watch?v=JcbfOxtFvp0",
-        "percent": 100,
-        "hz": 240
+    {
+      "user": "NotSpam",
+      "link": "https://www.youtube.com/watch?v=YGUp5AUWTU0",
+      "percent": 100,
+      "hz": 60
     },
     {
-        "user": "harrydacool",
-        "link": "https://www.youtube.com/watch?v=Ne8peApt0-g",
-        "percent": 100,
-        "hz": 240
+      "user": "CzechyyGMD",
+      "link": "https://www.youtube.com/watch?v=pYoVNmWWHHk",
+      "percent": 100,
+      "hz": 120
     },
-  {
-        "user": "lapzulii",
-        "link": "https://www.youtube.com/watch?v=2fLf2pYJD8M",
-        "percent": 100,
-        "hz": 240
+    {
+      "user": "Justarandomguy",
+      "link": "https://www.youtube.com/watch?v=JcbfOxtFvp0",
+      "percent": 100,
+      "hz": 240
     },
-  
-  
+    {
+      "user": "harrydacool",
+      "link": "https://www.youtube.com/watch?v=Ne8peApt0-g",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "lapzulii",
+      "link": "https://www.youtube.com/watch?v=2fLf2pYJD8M",
+      "percent": 100,
+      "hz": 240
+    }
   ]
 }
