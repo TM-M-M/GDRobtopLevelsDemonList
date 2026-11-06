@@ -1,12 +1,11 @@
 {
-    "id": 57436521,
-    "name": "Tidal Stereo",
-    "author": "chonxamGD",
-    "creators": ["chonxamGD"],
-    "verifier": "Chair 2.0",
-    "verification": "https://www.youtube.com/watch?v=ZYOzPEEKdd0",
-    "percentToQualify": "25",
-    "password": "Free To Copy",
-    "records": [
-        ]
-
+  "id": 57436521,
+  "name": "Tidal Stereo",
+  "author": "chonxamGD",
+  "creators": ["chonxamGD"],
+  "verifier": "Chair 2.0",
+  "verification": "https://www.youtube.com/watch?v=ZYOzPEEKdd0",
+  "percentToQualify": 25,
+  "password": "Free To Copy",
+  "records": []
+}
