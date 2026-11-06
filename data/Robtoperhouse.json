@@ -1,0 +1,18 @@
+{
+  "id": 146972780,
+  "name": "Robtoperhouse",
+  "author": "chonxamGD",
+  "creators": ["chonxamGD"],
+  "verifier": "fluffyknuckles",
+  "verification": "https://www.youtube.com/watch?v=sNg78YMYuv0",
+  "percentToQualify": 80,
+  "password": "Free To Copy",
+  "records": [
+      {
+      "user": "NotSpam",
+      "link": "https://www.youtube.com/watch?v=whRPmxRpEvk",
+      "percent": 100,
+      "hz": 60
+    }
+  ]
+}
