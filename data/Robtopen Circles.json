@@ -13,6 +13,18 @@
       "link": "",
       "percent": 100,
       "hz": 360
+    },
+            {
+      "user": "NotSpam",
+      "link": "",
+      "percent": 100,
+      "hz": 60
+    },
+          {
+      "user": "sgokazik",
+      "link": "https://youtu.be/Wpi-pF29Bqg",
+      "percent": 100,
+      "hz": 300
     }
   ]
 }
