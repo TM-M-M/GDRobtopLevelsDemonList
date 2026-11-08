@@ -27,7 +27,7 @@
     width: 3rem;
     border: none;
     background-color: transparent;
-    border-radius: 50%;
+    border-radius: 60%;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -44,10 +44,10 @@
     margin-left: 1rem;
     padding: 1rem;
     background-color: var(--color-on-primary);
-    color: var(--color-primary);
+    color: #000000;
     border-radius: 0.5rem;
     box-shadow: 0 1px 0.5rem 0 rgba(0, 0, 102, 0.5);
-    transition: transform 100ms ease;
+    transition: transform 400ms ease;
 }
 .nav .nav__actions .nav__cta:hover:not(:active) {
     transform: translateY(-2px);
