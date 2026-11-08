@@ -3,8 +3,8 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: ##B44CCB;
-    --color-on-primary: purple;
+    --color-primary: #963BCB;
+    --color-on-primary: #FFFFFF;
     --color-error: #B44CCB;
     --color-on-error: white;
 }
@@ -16,9 +16,9 @@ header.dark {
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: ##B44CCB;
+    --color-primary: #963BCB;
     --color-primary-disabled: #1f213c;
-    --color-on-primary: purple;
+    --color-on-primary: #FFFFFF;
     --color-error: #de0000;
     --color-on-error: white;
 }
@@ -52,6 +52,8 @@ header {
     height: 4rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
+    font-weight: 700;
+    color: #FFFFFF;
 }
 @media screen and (min-width: 1366px) {
     header {
