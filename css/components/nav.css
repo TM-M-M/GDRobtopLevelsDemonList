@@ -40,14 +40,16 @@
 .nav .nav__actions .nav__icon img {
     height: 1.5rem;
 }
-.nav .nav__actions .nav__cta {
+-.nav .nav__actions .nav__cta {
     margin-left: 1rem;
     padding: 1rem;
-    background-color: var(--color-on-primary);
-    color: #000000;
+    background-color: #963BCB;
+    color: #FFFFFF;
+    font-weight: 700;
     border-radius: 0.5rem;
     box-shadow: 0 1px 0.5rem 0 rgba(0, 0, 102, 0.5);
     transition: transform 400ms ease;
+}
 }
 .nav .nav__actions .nav__cta:hover:not(:active) {
     transform: translateY(-2px);
