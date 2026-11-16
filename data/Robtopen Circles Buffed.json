@@ -7,6 +7,14 @@
   "verification": "https://youtu.be/myH-a-dGDig",
   "percentToQualify": 35,
   "password": "Free To Copy",
-  "records": []
-
+  "records": [
+       {
+            "user": "SAMU",
+            "link": "https://youtu.be/Y0zcjE8hszQ?si=KMH1zTznUzBEOJSl",
+            "percent": 100,
+            "hz": 240
+        },
+    ]
 }
+
+
