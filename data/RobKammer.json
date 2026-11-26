@@ -7,5 +7,13 @@
   "verification": "https://youtu.be/5GEWBsDyr4M?si=m6rMZ5X3_6BUfH_n",
   "percentToQualify": 72,
   "password": "Free To Copy",
-  "records": []
+  "records": [
+      {
+      "user": "arandomdude",
+      "link": "https://www.youtube.com/watch?v=RawbtghNKOY",
+      "percent": 100,
+      "hz": 300
+    }
+  ]
 }
+
