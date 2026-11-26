@@ -7,5 +7,13 @@
   "verification": "https://youtu.be/hKKECQ6nRQw",
   "percentToQualify": 60,
   "password": "Free To Copy",
-  "records": []
+  "records": [
+      {
+      "user": "NotSpam",
+      "link": "https://www.youtube.com/watch?v=UI-Ttbg5TDE",
+      "percent": 100,
+      "hz": 60
+    }
+  ]
 }
+
